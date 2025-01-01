@@ -1,0 +1,6 @@
+@echo off
+set WHATSAPP_PHONE=40768076868
+set WHATSAPP_API_KEY=9728672
+set STRIPE_SECRET_KEY=sk_test_51QbjqXQgN32vF97d1LcMRoMUri4h5fVJEmgTMhbltOJNQ2dNDWScmGC176uTeMaOAoqhVBG5H6CwFskPfNOvp5si00P7Fx1Z1N
+set URL=http://localhost:8888
+node test-server.js
