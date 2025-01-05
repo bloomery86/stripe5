@@ -2,8 +2,8 @@ const products = {
     "1": {
         id: "1",
         name: "Buchet VIP 101 Trandafiri",
-        price: 2222.00,
-        originalPrice: 3500.00,
+        price: 5.00,
+        originalPrice: 5.00,
         images: [
             "product-image/101 VIP ROSU/4.jpg",
             "product-image/101 VIP ROSU/5.jpg",
