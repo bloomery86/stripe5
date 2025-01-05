@@ -1232,7 +1232,8 @@ html.lenis {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 3rem;
-    margin-bottom: 3rem;
+    
+    padding-bottom: 2rem;
 }
 
 .footer-section h3 {
