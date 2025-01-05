@@ -1,5 +1,5 @@
 // Initialize Stripe with your publishable key
-const stripe = Stripe('pk_test_51QbjqXQgN32vF97dEVjcvCOKewXtYfssKW6C5dIf5V7Ki6TETkUl6wibN8ehosw5bxG5x8086s4Qx7msY7gxd1yt00EZ6i2sAB');
+const stripe = Stripe('pk_live_51QbjqNHQhH44e6Y1Supd4dDsVjcrvvfN3yDxQNZxBXU6oIbcCsTj323KERvwspgIX2wmoub5MKniH2GGvmBl98SW00o36GYe09');
 
 document.addEventListener('DOMContentLoaded', function() {
     // Check if we're on the checkout page
